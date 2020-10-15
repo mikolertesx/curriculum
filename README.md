@@ -6,6 +6,7 @@
 ![Data Structures](img/DataStructuresFundamental.jpg)
 ![MongoDB](img/MongoDB.jpg)
 ![NodeJs](img/NodeJs.jpg)
+![CSS](img/CSS.jpg)
 ![Build Javascript Apps with Electron](img/BuildJavascriptAppsWithElectron.jpg)
 ![Flutter](img/Flutter.jpg)
 ![Make A Platforming Game](img/MakeAPlatformingGame.jpg)
