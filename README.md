@@ -14,3 +14,4 @@
 ![Git Essentials](img/GitEssentials.jpg)
 ![Fundamentos Matematicas](img/FundamentosMatematicas.jpg)
 ![Programación básica](img/ProgramacionBasica.jpg)
+![Vue 3](img/Vue3.jpg)
